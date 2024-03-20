@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className='shadow'>
         <h1> Assalomu alaykum </h1>
+        <h1> Assalomu alaykum </h1>
         <div className="container-fluid py-4">
           <img src="https://olcha.uz/_nuxt/logo-red.46354f18.png" alt="" />
 
